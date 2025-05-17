@@ -22,7 +22,7 @@ This is a simple console-based **Bus Reservation System** developed using **Java
 ## 🛠️ Technologies Used
 - **Java** (Core Java, JDBC)
 - **MySQL** (Database)
-- **IntelliJ IDEA / Eclipse** (IDE)
+- **IntelliJ IDEA ** (IDE)
 - **Command Line Interface** (Console UI)
 
 ---
